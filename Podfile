@@ -11,5 +11,6 @@ target 'FireMesStory' do
 	pod 'Firebase/Database'
 	pod 'Firebase/Core'
   pod 'Firebase/Storage'
+  pod 'Firebase/Firestore'
 
 end
